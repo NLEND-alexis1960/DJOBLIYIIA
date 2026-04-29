@@ -1,0 +1,26 @@
+{
+  "name": "djobliyiia",
+  "version": "0.1.0",
+  "private": true,
+  "description": "IA pour tous ceux qui veulent utiliser l'IA pour construire et deployer leurs sites en ligne et les applications",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1.4.1",
+    "next": "15.1.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.6",
+    "@types/react": "^19.0.6",
+    "@types/react-dom": "^19.0.2",
+    "eslint": "^9.18.0",
+    "eslint-config-next": "15.1.4",
+    "typescript": "^5.7.3"
+  }
+}
